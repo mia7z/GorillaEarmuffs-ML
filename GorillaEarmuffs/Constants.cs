@@ -1,8 +1,7 @@
 ﻿namespace GorillaEarmuffs
 {
-    internal class PluginInfo
+    internal class Constants
     {
-        public const string GUID = "luna.gorillaearmuffs";
         public const string Name = "GorillaEarmuffs";
         public const string Version = "1.0.0";
     }
